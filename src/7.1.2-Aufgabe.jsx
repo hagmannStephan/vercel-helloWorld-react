@@ -30,6 +30,7 @@ function App() {
 
     return (
         <div>
+            <h1>This is my great app!</h1>
             <p>weight (kg): </p>
             <input type="text" onChange={set_weight}></input>
             <p />
